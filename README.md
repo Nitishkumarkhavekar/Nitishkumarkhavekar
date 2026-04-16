@@ -16,7 +16,7 @@ Skilled in transforming **100,000+ row datasets into actionable insights** using
 
 ## 💼 Internship Experience
 
-### 🧑‍💻 Data Analyst Intern
+### 🧑‍💻Intern
 
 **KAMJRITZTEX IT SOLUTIONS** | Jun 2025 – Dec 2025
 
