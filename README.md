@@ -109,7 +109,8 @@ Sinhgad College of Engineering, Solapur
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitishkumarkhavekar\&show_icons=true\&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitishkumarkhavekar&show_icons=true&theme=tokyonight)
 
 ---
 
